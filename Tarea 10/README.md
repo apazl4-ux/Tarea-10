@@ -15,7 +15,7 @@ Programa desarrollado en C# que utiliza:
 -Presionar F5 para ejecutar el programa.
 
 -Enlace
-https://docs.google.com/videos/d/19F38d4oYan5Sc2LHRpbDvXZiifMbxPSwbyMt7fzwNMw/edit?scene=id.p#scene=id.p
+https://docs.google.com/videos/d/1BLe8Pk32FxBJTD0td8oPagxMWhJdtikCGNfQkkzNx4k/play?usp=sharing
 
 ![Captura 1](Capturas/Cap1.png)
 ![Captura 2](Capturas/Cap2.png)
